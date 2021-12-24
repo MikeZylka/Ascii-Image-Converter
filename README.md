@@ -23,7 +23,7 @@ out by how much space it takes up in the character's box. Finally, the 2D array 
 
 ## INSTALLATION:
 
-After the repository is downloaded, just type in the following to doenload the program's dependancies:
+After the repository is downloaded, just type in the following to download the program's dependancies:
 
 ` pip install -r requirements.txt `
 
